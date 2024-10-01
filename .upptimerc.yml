@@ -11,6 +11,8 @@ sites:
     url: https://volleybalxl.nl
   - name: VXL app
     url: https://volleyballxl.com/applogin/
+  - name: VolleyballXL.com - Drills
+    url: https://volleyballxl.com/drills/
 
 
 status-website:
