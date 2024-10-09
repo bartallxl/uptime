@@ -4,18 +4,20 @@
     "url": "https://volleyballxl.com",
     "icon": "https://icons.duckduckgo.com/ip3/volleyballxl.com.ico",
     "slug": "volleyball-xl-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2404,
-    "timeDay": 3681,
-    "timeWeek": 2248,
-    "timeMonth": 2404,
-    "timeYear": 2404,
-    "dailyMinutesDown": {}
+    "time": 2269,
+    "timeDay": 2095,
+    "timeWeek": 2030,
+    "timeMonth": 2269,
+    "timeYear": 2269,
+    "dailyMinutesDown": {
+      "2024-10-09": 0
+    }
   },
   {
     "name": "VolleyballXL.de",
@@ -58,35 +60,39 @@
     "url": "https://volleyballxl.com/applogin/",
     "icon": "https://icons.duckduckgo.com/ip3/volleyballxl.com.ico",
     "slug": "vxl-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 850,
-    "timeDay": 925,
-    "timeWeek": 815,
-    "timeMonth": 850,
-    "timeYear": 850,
-    "dailyMinutesDown": {}
+    "time": 808,
+    "timeDay": 597,
+    "timeWeek": 747,
+    "timeMonth": 808,
+    "timeYear": 808,
+    "dailyMinutesDown": {
+      "2024-10-09": 0
+    }
   },
   {
     "name": "VolleyballXL.com - Drills",
     "url": "https://volleyballxl.com/drills/",
     "icon": "https://icons.duckduckgo.com/ip3/volleyballxl.com.ico",
     "slug": "volleyball-xl-com-drills",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2213,
-    "timeDay": 2457,
-    "timeWeek": 1564,
-    "timeMonth": 2213,
-    "timeYear": 2213,
-    "dailyMinutesDown": {}
+    "time": 2037,
+    "timeDay": 1279,
+    "timeWeek": 1381,
+    "timeMonth": 2037,
+    "timeYear": 2037,
+    "dailyMinutesDown": {
+      "2024-10-09": 0
+    }
   }
 ]
