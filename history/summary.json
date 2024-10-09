@@ -4,19 +4,19 @@
     "url": "https://volleyballxl.com",
     "icon": "https://icons.duckduckgo.com/ip3/volleyballxl.com.ico",
     "slug": "volleyball-xl-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2269,
-    "timeDay": 2095,
-    "timeWeek": 2030,
-    "timeMonth": 2269,
-    "timeYear": 2269,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 2243,
+    "timeDay": 2025,
+    "timeWeek": 2014,
+    "timeMonth": 2243,
+    "timeYear": 2243,
     "dailyMinutesDown": {
-      "2024-10-09": 0
+      "2024-10-09": 8
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://volleyballxl.com/applogin/",
     "icon": "https://icons.duckduckgo.com/ip3/volleyballxl.com.ico",
     "slug": "vxl-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 808,
-    "timeDay": 597,
-    "timeWeek": 747,
-    "timeMonth": 808,
-    "timeYear": 808,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 809,
+    "timeDay": 670,
+    "timeWeek": 755,
+    "timeMonth": 809,
+    "timeYear": 809,
     "dailyMinutesDown": {
-      "2024-10-09": 0
+      "2024-10-09": 8
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://volleyballxl.com/drills/",
     "icon": "https://icons.duckduckgo.com/ip3/volleyballxl.com.ico",
     "slug": "volleyball-xl-com-drills",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2037,
-    "timeDay": 1279,
-    "timeWeek": 1381,
-    "timeMonth": 2037,
-    "timeYear": 2037,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 2004,
+    "timeDay": 1390,
+    "timeWeek": 1407,
+    "timeMonth": 2004,
+    "timeYear": 2004,
     "dailyMinutesDown": {
-      "2024-10-09": 0
+      "2024-10-09": 8
     }
   }
 ]
