@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/volleyballxl.com.ico",
     "slug": "volleyball-xl-com",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2278,
     "timeDay": 1341,
     "timeWeek": 1989,
     "timeMonth": 2278,
     "timeYear": 2278,
-    "dailyMinutesDown": {
-      "2024-10-22": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "VolleyballXL.de",
@@ -25,38 +23,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/volleyballxl.de.ico",
     "slug": "volleyball-xl-de",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2097,
     "timeDay": 1024,
     "timeWeek": 2168,
     "timeMonth": 2097,
     "timeYear": 2097,
-    "dailyMinutesDown": {
-      "2024-10-22": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "VolleybalXL.nl",
     "url": "https://volleybalxl.nl",
     "icon": "https://icons.duckduckgo.com/ip3/volleybalxl.nl.ico",
     "slug": "volleybal-xl-nl",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 2103,
-    "timeDay": 2127,
-    "timeWeek": 2111,
-    "timeMonth": 2103,
-    "timeYear": 2103,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 2067,
+    "timeDay": 1907,
+    "timeWeek": 2012,
+    "timeMonth": 2067,
+    "timeYear": 2067,
     "dailyMinutesDown": {
-      "2024-10-22": 12
+      "2024-10-22": 22
     }
   },
   {
@@ -65,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/volleyballxl.com.ico",
     "slug": "vxl-app",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 958,
     "timeDay": 684,
     "timeWeek": 858,
     "timeMonth": 958,
     "timeYear": 958,
-    "dailyMinutesDown": {
-      "2024-10-22": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "VolleyballXL.com - Drills",
@@ -85,18 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/volleyballxl.com.ico",
     "slug": "volleyball-xl-com-drills",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2021,
     "timeDay": 1145,
     "timeWeek": 1412,
     "timeMonth": 2021,
     "timeYear": 2021,
-    "dailyMinutesDown": {
-      "2024-10-22": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
