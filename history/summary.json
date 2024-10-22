@@ -40,19 +40,19 @@
     "url": "https://volleybalxl.nl",
     "icon": "https://icons.duckduckgo.com/ip3/volleybalxl.nl.ico",
     "slug": "volleybal-xl-nl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2196,
-    "timeDay": 3412,
-    "timeWeek": 2428,
-    "timeMonth": 2196,
-    "timeYear": 2196,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 2172,
+    "timeDay": 2785,
+    "timeWeek": 2328,
+    "timeMonth": 2172,
+    "timeYear": 2172,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 8
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://volleyballxl.com/applogin/",
     "icon": "https://icons.duckduckgo.com/ip3/volleyballxl.com.ico",
     "slug": "vxl-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1006,
-    "timeDay": 961,
-    "timeWeek": 993,
-    "timeMonth": 1006,
-    "timeYear": 1006,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 995,
+    "timeDay": 872,
+    "timeWeek": 960,
+    "timeMonth": 995,
+    "timeYear": 995,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 8
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://volleyballxl.com/drills/",
     "icon": "https://icons.duckduckgo.com/ip3/volleyballxl.com.ico",
     "slug": "volleyball-xl-com-drills",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2171,
-    "timeDay": 1851,
-    "timeWeek": 1688,
-    "timeMonth": 2171,
-    "timeYear": 2171,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 2131,
+    "timeDay": 1585,
+    "timeWeek": 1617,
+    "timeMonth": 2131,
+    "timeYear": 2131,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 8
     }
   }
 ]
