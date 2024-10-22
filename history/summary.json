@@ -40,53 +40,59 @@
     "url": "https://volleybalxl.nl",
     "icon": "https://icons.duckduckgo.com/ip3/volleybalxl.nl.ico",
     "slug": "volleybal-xl-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2207,
-    "timeDay": 4905,
-    "timeWeek": 2500,
-    "timeMonth": 2207,
-    "timeYear": 2207,
-    "dailyMinutesDown": {}
+    "time": 2196,
+    "timeDay": 3412,
+    "timeWeek": 2428,
+    "timeMonth": 2196,
+    "timeYear": 2196,
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "VXL app",
     "url": "https://volleyballxl.com/applogin/",
     "icon": "https://icons.duckduckgo.com/ip3/volleyballxl.com.ico",
     "slug": "vxl-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1040,
-    "timeDay": 1887,
-    "timeWeek": 1130,
-    "timeMonth": 1040,
-    "timeYear": 1040,
-    "dailyMinutesDown": {}
+    "time": 1006,
+    "timeDay": 961,
+    "timeWeek": 993,
+    "timeMonth": 1006,
+    "timeYear": 1006,
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "VolleyballXL.com - Drills",
     "url": "https://volleyballxl.com/drills/",
     "icon": "https://icons.duckduckgo.com/ip3/volleyballxl.com.ico",
     "slug": "volleyball-xl-com-drills",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2254,
-    "timeDay": 3696,
-    "timeWeek": 1928,
-    "timeMonth": 2254,
-    "timeYear": 2254,
-    "dailyMinutesDown": {}
+    "time": 2171,
+    "timeDay": 1851,
+    "timeWeek": 1688,
+    "timeMonth": 2171,
+    "timeYear": 2171,
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   }
 ]
