@@ -61,18 +61,20 @@
     "url": "https://volleyballxl.com/applogin/",
     "icon": "https://icons.duckduckgo.com/ip3/volleyballxl.com.ico",
     "slug": "vxl-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 943,
-    "timeDay": 676,
-    "timeWeek": 878,
-    "timeMonth": 943,
-    "timeYear": 943,
-    "dailyMinutesDown": {}
+    "time": 931,
+    "timeDay": 568,
+    "timeWeek": 826,
+    "timeMonth": 931,
+    "timeYear": 931,
+    "dailyMinutesDown": {
+      "2024-10-30": 0
+    }
   },
   {
     "name": "VolleyballXL.com - Drills",
