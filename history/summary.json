@@ -22,19 +22,19 @@
     "url": "https://volleyballxl.de",
     "icon": "https://icons.duckduckgo.com/ip3/volleyballxl.de.ico",
     "slug": "volleyball-xl-de",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2015,
-    "timeDay": 1301,
-    "timeWeek": 1399,
-    "timeMonth": 2106,
-    "timeYear": 2015,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
+    "time": 2011,
+    "timeDay": 1438,
+    "timeWeek": 1434,
+    "timeMonth": 2094,
+    "timeYear": 2011,
     "dailyMinutesDown": {
-      "2024-12-05": 0
+      "2024-12-05": 31
     }
   },
   {
